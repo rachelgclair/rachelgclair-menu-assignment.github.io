@@ -1,7 +1,16 @@
+<link href="https://fonts.google.com/">
+
 body{
  font-family: "Raleway", sans-serif;
+}
+#center{
+  text-align:center;
 }
 
 h2{
   color:red;
+}
+
+img{
+
 }
